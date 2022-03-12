@@ -1,0 +1,41 @@
+/* header */
+
+ul {
+    display: inline-flex;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a :hover {
+    background-color: #98a5a5;
+}
+
+.groupe {
+    background-color: #d35649;
+}
+
+span {
+    color: #509bd7;
+}
+
+
+/* footer 1 */
+
+.end {
+    background-color: #1f1f1f;
+}
+
+
+/* contact */
+
+#contact :hover {
+    color: #d35649 !important;
+}
+
+.maps {
+    padding: 0%;
+    margin: 0%;
+}
